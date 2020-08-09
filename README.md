@@ -2,8 +2,6 @@
 
 Golang安全资源合集
 
-![vx](https://raw.githubusercontent.com/re4lity/Webapp_rule.yaml/master/vxqrcode.jpg)
-
 ## 编程相关
 
 - [The Go Programming Language](https://golang.org/doc/) - Go语言官方文档
@@ -11,11 +9,6 @@ Golang安全资源合集
 - [The Little Go Book](https://www.openmymind.net/assets/go/go.pdf) - Google Go语言编程书
 - [book](https://github.com/qyuhen/book) - 雨痕Go 学习笔记
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go/) - Golang黑客编程
-
-## 库
-
-- [gopacket](https://github.com/google/gopacket) - Go语言用于处理网络数据包的库
-- [xorm](https://github.com/go-xorm/xorm) - Go语言实现的ORM库，支持多种数据库
 
 ## 代码安全
 
@@ -70,7 +63,7 @@ Golang安全资源合集
 - [raven](https://github.com/0x09AL/raven) - Linkedin信息收集工具
 - [phishery](https://github.com/ryhanson/phishery) - Word文档钓鱼工具
 - [Gorsair](https://github.com/Ullaakut/Gorsair) - Docker API利用
-
+- [HFish](https://github.com/hacklcx/HFish) - 一款基于 Golang 开发的跨平台蜜罐平台
 
 ## 扫描工具
 
